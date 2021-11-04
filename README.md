@@ -14,7 +14,7 @@
 
 2° = multiplicar os valores do cpf até o primeiro verificador por 11 na ordem decrescente até o número 2, o resultado multiplica por 10, o resultado divide por 11 e verificar se o resto é igual ao segundo verificador.
 
-# Resultado
+# Rodar a aplicação
 
 ```bash
 python validação.py
